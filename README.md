@@ -6,3 +6,29 @@ RAMPAGE Search Engine Web Browser<br>
 <a target="_blank" href="https://github.com/RAMPAGELLC/browser/releases">Releases</a> |  
 <a target="_blank" href="https://browser.rampagestudiso.org">Website</a>
 </p>
+<h1 align="center">About</h1>
+RAMPAGE GX uses less processing capacity than other popular browsers and we have a built-in ad blocker to help protect you across the web. Our notable VPN will help reduce online tracking & privacy while browsing. Oh yeah, we're not an evil corporation.
+
+<h1 align="center">Features</h1>
+
+ <b>Noteable Features</b>
+  - Optimized
+  - Use common search engines such as google, duckduckgo, and more!
+  - Reduced computer usage compared to popular engines such as Chrome.
+  - We're not owned by a evil corporation! (Please dont sue me google, uwu)
+
+  <b>Builtin Features Gamers Love</b>
+  - Free VPN by RAMPAGE Interactive
+  - Discord, Messanger, Twitch, and more!
+  - Catalog of Extensions
+
+  <b>RAMPAGE Bird</b>
+  - Builtin Messanger, No Logs, no data is stored on servers.
+  - Fast and reliable communication, everything is instant and not recored.
+  - It's time to ditch Discord.
+
+
+  <b>Supported Operating Systems</b>
+  - macOS
+  - Linux
+  - Windows
