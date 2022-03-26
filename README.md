@@ -7,7 +7,7 @@ RAMPAGE Search Engine Web Browser<br>
 <a target="_blank" href="https://browser.rampagestudiso.org">Website</a>
 </p>
 <h1 align="center">About</h1>
-RAMPAGE GX uses less processing capacity than other popular browsers and we have a built-in ad blocker to help protect you across the web. Our notable VPN will help reduce online tracking & privacy while browsing. Oh yeah, we're not an evil corporation.
+RAMPAGE GX uses less processing capacity than other popular browsers and we have a built-in ad blocker to help protect you across the web. Our notable VPN will help reduce online tracking & privacy while browsing. Oh yeah, we're not an evil corporation. Point of RAMPAGEGX is to bring an alternative browser then something developed by a greedy corporation, and/or a corporation who sells your data. No data is logged and/or sent to RAMPAGE Servers.
 
 <h1 align="center">Features</h1>
 
@@ -32,3 +32,8 @@ RAMPAGE GX uses less processing capacity than other popular browsers and we have
   - macOS
   - Linux
   - Windows
+
+ <b>Translation</b>
+  - EN (English)
+  - FR (In the works by translators)
+  - ES (In the works by translators)
