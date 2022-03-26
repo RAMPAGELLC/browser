@@ -9,6 +9,8 @@ RAMPAGE Search Engine Web Browser<br>
 <h1 align="center">About</h1>
 RAMPAGE GX uses less processing capacity than other popular browsers and we have a built-in ad blocker to help protect you across the web. Our notable VPN will help reduce online tracking & privacy while browsing. Oh yeah, we're not an evil corporation. Point of RAMPAGEGX is to bring an alternative browser then something developed by a greedy corporation, and/or a corporation who sells your data. No data is logged and/or sent to RAMPAGE Servers.
 
+EXE Will be signed soon, we are working on it.
+
 <h1 align="center">Features</h1>
 
  <b>Noteable Features</b>
