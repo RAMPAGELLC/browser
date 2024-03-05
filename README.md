@@ -1,6 +1,7 @@
-<h1 align="center">RAMPAGE Browser</h1>
-> [!WARNING]
+> [!CAUTION]
 > RAMPAGE GX has been **DEPRECATED**. You can utilize Fusion Browser, a all new version by RAMPAGE Interactive at https://github.com/RAMPAGELLC/fusion/tree/main.
+
+<h1 align="center">RAMPAGE Browser</h1>
 
 <p align="center">
 <img src="https://github.com/RAMPAGELLC/browser/raw/main/large.png" style="display: block;margin-left: auto;margin-right: auto;" width="500" height="160" align="center"/><br><br>
